@@ -66,8 +66,6 @@ class Configuration
             '1day'   => 86400,
             '1week'  => 604800,
             '1month' => 2592000,
-            '1year'  => 31536000,
-            'never'  => 0,
         ),
         'formatter_options' => array(
             'plaintext'          => 'Plain Text',
